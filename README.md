@@ -22,6 +22,7 @@ Backend: PHP (Laravel / Core PHP)
 Database: MySQL
 
 Version Control: Git & GitHub
+
 Dashboard Image
 <img width="1423" height="759" alt="image" src="https://github.com/user-attachments/assets/19a350ab-c7b3-4484-b69a-794a7081f645" />
 Report Image
